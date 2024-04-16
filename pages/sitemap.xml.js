@@ -1,4 +1,4 @@
-const BASE_URL = 'https://carbonplan.org'
+const BASE_URL = 'https://hahahash.lol'
 
 const ROUTES = [
   'about',

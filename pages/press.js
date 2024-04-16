@@ -10,7 +10,7 @@ import {
   Tray,
   Heading,
   formatDate,
-} from '@carbonplan/components'
+} from '../components/src'
 import { Arrow } from '@carbonplan/icons'
 import { highlights, press } from '../data/press'
 import {

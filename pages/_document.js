@@ -1,5 +1,5 @@
 import Document, { Html, Main, NextScript, Head } from 'next/document'
-import { Tracking } from '@carbonplan/components'
+import { Tracking } from '../components/src'
 import { InitializeColorMode } from 'theme-ui'
 
 class MyDocument extends Document {

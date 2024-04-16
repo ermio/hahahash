@@ -6,7 +6,7 @@ import {
   Callout,
   Link,
   Heading,
-} from '@carbonplan/components'
+} from '../components/src'
 import { Heart } from '@carbonplan/emoji'
 
 const sx = {

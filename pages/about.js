@@ -7,7 +7,7 @@ import {
   Link,
   Callout,
   Heading,
-} from '@carbonplan/components'
+} from '../components/src'
 import { RotatingArrow } from '@carbonplan/icons'
 import { highlights, press } from '../data/recent'
 import { keyframes } from '@emotion/react'
@@ -174,9 +174,9 @@ const About = () => {
               RESEARCH
             </Box>
             <Box as='p'>
-              We study fundamental climate science topics relevant to both
-              mitigation and adaptation, and we analyze the implementation of
-              climate programs to ensure that they line up with the science.
+              We study fundamental topics relevant to Ethereum restaking and its impact.
+              We visualize the ecosystem data, write insight reports and provide risk analysis for participating projects.
+              to ensure they line up with the broader vision.
             </Box>
           </Box>
         </Column>
@@ -190,12 +190,11 @@ const About = () => {
                 color: 'yellow',
               }}
             >
-              POLICY
+              Values
             </Box>
             <Box as='p'>
-              We work with companies, nonprofits, and government organizations
-              to develop robust climate programs, and we collaborate with
-              journalists to raise public awareness and promote accountability.
+              We work with different analysts, researchers and engineers
+              to develop independent, reliable information. We promote accountability among AVSs and Operators by our research.
             </Box>
           </Box>
         </Column>
@@ -212,10 +211,9 @@ const About = () => {
               SOFTWARE
             </Box>
             <Box>
-              We build open tools and resources to surface critical dimensions
-              of climate solutions with interactive data and visuals, and we
-              contribute to high-leverage open science and open source
-              ecosystems.
+              We build open tools and resources to help everyone understand
+              Ethereum Restaking using interactive data and visuals. We
+              contribute to innovative projects like EigenLayer.
             </Box>
           </Box>
         </Column>

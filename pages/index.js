@@ -6,7 +6,7 @@ import {
   Button,
   Link,
   formatDate,
-} from '@carbonplan/components'
+} from '../components/src'
 import { RotatingArrow } from '@carbonplan/icons'
 import { keyframes } from '@emotion/react'
 import Splash from '../components/splash'
@@ -35,9 +35,9 @@ const Index = () => {
   return (
     <Layout
       links={'homepage'}
-      title={'CarbonPlan'}
+      title={'hahaHash'}
       description={
-        'Improving the transparency and scientific integrity of climate solutions with open data and tools.'
+        'We build analytics tools, operate top-tier validator nodes and publish ecosystem insights.'
       }
     >
       <Box
@@ -69,14 +69,14 @@ const Index = () => {
               fontSize: [6, 6, 7, 8],
             }}
           >
-            Data and science for{' '}
+            Welcome to Ethereum{' '}
             <Box
               as='span'
               sx={{ display: ['none', 'none', 'none', 'initial'] }}
             >
               <br />
             </Box>
-            climate action
+            Restaking Ecosystem
           </Box>
           <Row columns={[6, 5, 6, 6]}>
             <Column start={[1]} width={[5, 4, 4, 4]}>
@@ -90,8 +90,7 @@ const Index = () => {
                   mt: [3, 4, 4, 5],
                 }}
               >
-                Improving the transparency and scientific integrity of climate
-                solutions with open data and tools
+                hahaHash is a leading R&D team with a focus on restaking. We build analytics tools, operate validator nodes and publish ecosystem insights.
               </Box>
             </Column>
           </Row>

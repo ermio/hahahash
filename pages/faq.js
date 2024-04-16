@@ -7,7 +7,7 @@ import {
   Guide,
   Link,
   Heading,
-} from '@carbonplan/components'
+} from '../components/src'
 
 const FAQ = () => {
   return (
