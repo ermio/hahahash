@@ -99,12 +99,12 @@ const Index = () => {
               <Column as='nav' start={[1]} width={[6, 6, 6, 6]}>
                 <InternalNav href={'/about'}>About</InternalNav>
                 <InternalNav href={'/research'}>Research</InternalNav>
-                <InternalNav href={'/blog'}>Blog</InternalNav>
+                <InternalNav href={'https://paragraph.xyz/@hahahash'}>Blog</InternalNav>
                 <InternalNav href={'/press'}>Press</InternalNav>
+                {/*}
                 <InternalNav href={'/team'}>Team</InternalNav>
-                <InternalNav href={'/donate'} final>
-                  Donate
-                </InternalNav>
+                <InternalNav href={'/donate'} final>Donate</InternalNav>
+              */}
               </Column>
             </Row>
           </Box>
