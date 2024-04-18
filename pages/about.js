@@ -29,10 +29,10 @@ const About = () => {
   return (
     <Layout
       links={'homepage'}
-      title={'About – CarbonPlan'}
+      title={'About – hahaHash'}
       nav={'about'}
       description={
-        'We’re a nonprofit that analyzes climate solutions based on the best available science and data.'
+        'Our team analyzes the Ethereum restaking narrative based on the best available data.'
       }
     >
       <Heading>About</Heading>
@@ -57,28 +57,31 @@ const About = () => {
                   lineHeight: 'heading',
                 }}
               >
-                We’re a nonprofit that analyzes climate solutions based on the
-                best available science and data.
+                Our team analyzes the Ethereum restaking narrative based on the
+                best available data.
               </Box>
             </Flex>
           </Column>
           <Column start={[1, 7]} width={[6, 5]}>
             <Box>
               <Box as='p' variant='styles.p' sx={{ mt: [0] }}>
-                Addressing the climate crisis requires action on several fronts.
-                In addition to rapidly achieving deep emission reductions, we
-                also need gigaton-scale carbon removal and sound strategies for
-                adapting to climate change. Our solutions must respect science
-                and support just outcomes. We no longer have time for approaches
-                that don’t work.
+              hahaHash is a pioneering research and development team at the
+              forefront of the Ethereum restaking ecosystem. As dedicated innovators
+              within the EigenLayer network, we operate high-performance validator
+              nodes that enhance network security and efficiency.
+              Our mission is to leverage cutting-edge technology to streamline and
+              secure decentralized finance operations, ensuring reliability and trust
+              in blockchain infrastructures.
               </Box>
               <Box as='p' variant='styles.p' sx={{ mb: [0] }}>
                 Our <Link href='/team'>team</Link> analyzes the design and
-                implementation of climate programs across the public and private
-                sectors. Our work focuses primarily on carbon offsets, carbon
-                removal, and climate risks. In all three areas, we aim to ensure
-                the scientific integrity and transparency of climate services
-                and solutions.
+                implementation of protocols within the restaking ecosystem.
+                At hahaHash, we pride ourselves on offering exclusive resources to
+                our community. Delegators who partner with us gain access to our
+                comprehensive restaking research and advanced analytics tools.
+                By fostering a collaborative environment, we empower our users with
+                the knowledge and tools needed to maximize their restaking potential
+                and stay ahead in the fast-evolving crypto landscape.
               </Box>
             </Box>
           </Column>
@@ -123,8 +126,8 @@ const About = () => {
                 lineHeight: 'heading',
               }}
             >
-              We’re a nonprofit that analyzes climate solutions based on the
-              best available science and data.
+              Our team analyzes the Ethereum restaking narrative based on the
+              best available data.
             </Box>
           </Column>
         </Row>
@@ -223,6 +226,7 @@ const About = () => {
           <Divider sx={{ width: '100%', my: [0] }}></Divider>
         </Column>
       </Row>
+      {/*
       <Row sx={{ mt: [4, 5, 6, 7], mb: [5, 6, 7, 8] }}>
         <Column
           start={[1, 1, 2, 2]}
@@ -325,6 +329,7 @@ const About = () => {
           </Box>
         </Column>
       </Row>
+      */}
       <Row>
         <Column start={[1, 2]} width={[6, 8, 10, 10]}>
           <Divider sx={{ width: '100%', my: [0] }}></Divider>
@@ -340,29 +345,29 @@ const About = () => {
       <Row sx={{ mt: [4, 4, 5, 6] }}>
         <Column start={[1, 3]} width={[3, 4, 2, 2]} sx={{ mb: [3, 0, 0, 0] }}>
           <Box sx={{ fontSize: [3, 3, 3, 4], mb: [3, 3, 0] }}>
-            <Callout href='/team' label='team'>
-              Read about our team members
+            <Callout href='https://dune.com/hahahash/eigenlayer' label='dune'>
+              Explore our EigenLayer dashboard
             </Callout>
           </Box>
         </Column>
         <Column start={[4, 5, 5, 5]} width={[3, 4, 2, 2]}>
           <Box sx={{ fontSize: [3, 3, 3, 4], mb: [3, 3, 0] }}>
-            <Callout href='https://github.com/carbonplan' label='github'>
+            <Callout href='https://github.com/hahahash-lol' label='github'>
               Check out our open source code
             </Callout>
           </Box>
         </Column>
         <Column start={[1, 7]} width={[3, 4, 2, 2]}>
           <Box sx={{ fontSize: [3, 3, 3, 4], mb: [3, 3, 0] }}>
-            <Callout href='/funding' label={'funding'}>
-              Learn about our sources of funding
+            <Callout href='https://twitter.com/hahahash_lol' label={'twitter'}>
+            Catch the latest restaking trends
             </Callout>
           </Box>
         </Column>
         <Column start={[4, 5, 9, 9]} width={[3, 4, 2, 2]}>
           <Box sx={{ fontSize: [3, 3, 3, 4], mb: [3, 3, 0] }}>
-            <Callout href='/donate' label={'donate'}>
-              Donate to our organization
+            <Callout href='discord.gg/hahahash' label={'discord'}>
+              Did you delegate to us? Join our community
             </Callout>
           </Box>
         </Column>

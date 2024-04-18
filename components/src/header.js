@@ -40,7 +40,7 @@ const sx = {
 const links = [
   { url: 'about', display: 'About' },
   { url: 'research', display: 'Research' },
-  { url: 'blog', display: 'Blog' },
+  { url: 'https://paragraph.xyz/@hahahash', display: 'Blog' },
   { url: 'press', display: 'Press' },
 ]
 

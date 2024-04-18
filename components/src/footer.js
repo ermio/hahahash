@@ -88,7 +88,7 @@ const Footer = () => {
                 color: 'secondary',
               }}
             >
-              hahahaHash is a leading R&D team with a focus on restaking. We build analytics tools, operate nodes and publish insights.
+              hahahaHash is a leading R&D team within the restaking ecosystem. We build tools, operate nodes and publish insight reports.
             </Box>
           </Box>
         </Column>

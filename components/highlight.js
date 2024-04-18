@@ -1,5 +1,5 @@
 import { Box, Image, useColorMode } from 'theme-ui'
-import { Row, Column, Link, Button, formatDate } from '@carbonplan/components'
+import { Row, Column, Link, Button, formatDate } from '../components/src'
 import { RotatingArrow } from '@carbonplan/icons'
 
 const highlightImageUrl = (id, mode) => {
