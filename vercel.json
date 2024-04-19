@@ -2,11 +2,11 @@
   "rewrites": [
     {
       "source": "/research/offsets-db-explainer",
-      "destination": "https://research.carbonplan.org/research/offsets-db-explainer"
+      "destination": "https://haha-research.vercel.app/research/offsets-db-explainer"
     },
     {
       "source": "/research/offsets-db-methods",
-      "destination": "https://research.carbonplan.org/research/offsets-db-methods"
+      "destination": "https://haha-research.vercel.app/research/offsets-db-methods"
     },
     {
       "source": "/research/offsets-db(.*)",
@@ -14,7 +14,7 @@
     },
     {
       "source": "/research/ew-quantification-explainer",
-      "destination": "https://research.carbonplan.org/research/ew-quantification-explainer"
+      "destination": "https://haha-research.vercel.app/research/ew-quantification-explainer"
     },
     {
       "source": "/research/ew-quantification(.*)",
@@ -22,7 +22,7 @@
     },
     {
       "source": "/research/cdr-verification-explainer",
-      "destination": "https://research.carbonplan.org/research/cdr-verification-explainer"
+      "destination": "https://haha-research.vercel.app/research/cdr-verification-explainer"
     },
     {
       "source": "/research/cdr-verification(.*)",
@@ -78,7 +78,7 @@
     },
     {
       "source": "/research(.*)",
-      "destination": "https://research.carbonplan.org/research$1"
+      "destination": "https://haha-research.vercel.app/research$1"
     },
     {
       "source": "/blog(.*)",
