@@ -1,19 +1,19 @@
-import { Layout } from '@carbonplan/components'
+import { Layout } from '../components/src'
 import Main from '../../components/main'
 import { getCombinedContents } from '../../utils/contents'
 
 const Index = ({ articles, commentary, count }) => {
   return (
     <Layout
-      title={'Research – CarbonPlan'}
+      title={'Research – hahaHash'}
       description={
-        'Articles, tools, and commentary on climate services and solutions.'
+        'Articles, tools, and commentary on Ethereum Restaking'
       }
       card={'https://images.carbonplan.org/social/research.png'}
       links={'local'}
       metadata={`COUNT: ${count}`}
       nav={'research'}
-      url={'https://carbonplan.org/research'}
+      url={'https://hahahash.lol/research'}
     >
       <Main articles={articles} commentary={commentary} />
     </Layout>

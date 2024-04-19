@@ -25,7 +25,7 @@ import {
   FigureCaption,
   Table,
   TableCaption,
-} from '@carbonplan/components'
+} from '../components/src'
 
 import {
   articleMetadata,

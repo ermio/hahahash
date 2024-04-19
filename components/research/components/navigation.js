@@ -1,5 +1,5 @@
 import { Box } from 'theme-ui'
-import { Button } from '@carbonplan/components'
+import { Button } from '../components/src'
 import { forwardRef } from 'react'
 
 const SECTIONS = [

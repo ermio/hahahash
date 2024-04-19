@@ -13,7 +13,7 @@ const contentsRssXml = (articles) => {
       )
       const postDate = new Date(year, month, day)
 
-      const postHref = `https://carbonplan.org/research/${id}`
+      const postHref = `https://hahahash.lol/research/${id}`
 
       if (!latestArticleDate || postDate > latestArticleDate) {
         latestArticleDate = postDate
