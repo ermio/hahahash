@@ -1,5 +1,5 @@
 import { Box } from 'theme-ui'
-import { Row, Column } from '@carbonplan/components'
+import { Row, Column } from '../components/src'
 import WideBars from './wide-bars'
 import JoyDivision from './joy-division'
 import BarSwoop from './bar-swoop'

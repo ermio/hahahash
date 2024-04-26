@@ -11,7 +11,7 @@ import {
   Input,
   Heading,
 } from '../components/src'
-import { RotatingArrow } from '@carbonplan/icons'
+import { RotatingArrow } from '../components/icons'
 
 const stripePromise = loadStripe(process.env.NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY)
 
@@ -25,7 +25,7 @@ const Sidenote = () => {
   return (
     <span>
       Looking to donate $1000 or more? Want to donate stock?{' '}
-      <Link href='mailto:hello@carbonplan.org'>Email us</Link>.
+      <Link href='mailto:info@hahahash.lol'>Email us</Link>.
     </span>
   )
 }
@@ -77,7 +77,7 @@ const getMessage = (amount) => {
   } else if (Number(amount > 999)) {
     message = (
       <span>
-        <Link href='mailto:hello@carbonplan.org' sx={{ color: 'teal' }}>
+        <Link href='mailto:info@hahahash.lol' sx={{ color: 'teal' }}>
           Email us
         </Link>{' '}
         for a donation of $1000 or more.

@@ -1,6 +1,6 @@
 import React from 'react'
 import { Flex } from 'theme-ui'
-import { RotatingArrow } from '@carbonplan/icons'
+import { RotatingArrow } from '../components/icons'
 import Button from './button'
 
 const LinkGroup = ({

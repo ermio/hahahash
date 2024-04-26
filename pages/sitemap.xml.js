@@ -2,7 +2,7 @@ const BASE_URL = 'https://hahahash.lol'
 
 const ROUTES = [
   'about',
-  'disclosures',
+//  'disclosures',
   'donate',
   'faq',
   'funding',

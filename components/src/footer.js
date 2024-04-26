@@ -30,13 +30,13 @@ const Footer = () => {
               EMAIL
             </Box>
             <Link
-              href='mailto:hello@carbonplan.org'
+              href='mailto:info@hahahash.lol'
               sx={{
                 textDecoration: 'none',
                 fontSize: [2, 2, 2, 3],
               }}
             >
-              info@hahhash.lol
+              info@hahahash.lol
             </Link>
           </Box>
         </Column>

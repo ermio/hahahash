@@ -26,7 +26,7 @@ const Thanks = () => {
   return (
     <Layout
       links={'homepage'}
-      title={'Thanks – CarbonPlan'}
+      title={'Thanks – hahaHash'}
       description={
         'Thank you for your donation to our organization. We truly appreciate your generosity.'
       }
@@ -39,7 +39,7 @@ const Thanks = () => {
           </Box>
           <Box as='p' variant='styles.p'>
             Follow us on{' '}
-            <Link href='https://twitter.com/carbonplanorg'>@carbonplanorg</Link>{' '}
+            <Link href='https://twitter.com/hahahash_lol'>@hahahash_lol</Link>{' '}
             or come back to this website anytime to see the latest updates on
             our work.
           </Box>
@@ -86,7 +86,7 @@ const Thanks = () => {
         </Column>
         <Column start={[4, 5, 9, 9]} width={[3, 4, 2, 2]}>
           <Box sx={{ fontSize: [3, 3, 3, 4], mb: [3, 3, 0] }}>
-            <Callout href='https://github.com/carbonplan' label='github'>
+            <Callout href='https://github.com/hahahash-lol' label='github'>
               Check out our open source code
             </Callout>
           </Box>

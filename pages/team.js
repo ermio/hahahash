@@ -9,7 +9,7 @@ const Team = () => {
   return (
     <Layout
       links={'homepage'}
-      title={'Team – CarbonPlan'}
+      title={'Team – hahaHash'}
       nav={'team'}
       description={
         'Meet our core team, our Board of Directors, and our collaborators.'

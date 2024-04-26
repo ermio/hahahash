@@ -5,7 +5,7 @@ const Terms = () => {
   return (
     <Layout
       links={'homepage'}
-      title={'Terms – CarbonPlan'}
+      title={'Terms – hahaHash'}
       description={
         'Terms of use related to our website, code, data, and content.'
       }

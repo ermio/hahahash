@@ -13,7 +13,7 @@ const FAQ = () => {
   return (
     <Layout
       links={'homepage'}
-      title={'FAQ – CarbonPlan'}
+      title={'FAQ – hahaHash'}
       nav={'faq'}
       description={
         'Frequently asked questions about our work and our organization.'

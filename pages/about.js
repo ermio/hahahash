@@ -8,7 +8,7 @@ import {
   Callout,
   Heading,
 } from '../components/src'
-import { RotatingArrow } from '@carbonplan/icons'
+import { RotatingArrow } from '../components/icons'
 import { highlights, press } from '../data/recent'
 import { keyframes } from '@emotion/react'
 

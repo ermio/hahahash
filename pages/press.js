@@ -11,7 +11,7 @@ import {
   Heading,
   formatDate,
 } from '../components/src'
-import { Arrow } from '@carbonplan/icons'
+import { Arrow } from '../components/icons'
 import { highlights, press } from '../data/press'
 import {
   Bloomberg,

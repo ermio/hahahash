@@ -6,7 +6,7 @@ const Disclosures = () => {
   return (
     <Layout
       links={'homepage'}
-      title={'Disclosures – CarbonPlan'}
+      title={'Disclosures – hahaHash'}
       description={
         'State-specific disclosures for nonprofit organizations soliciting contributions.'
       }

@@ -7,7 +7,7 @@ const Funding = () => {
   return (
     <Layout
       links={'homepage'}
-      title={'Funding – CarbonPlan'}
+      title={'Funding – hahaHash'}
       description={
         'Public list of all our sources of unrestricted or project-specific funding greater than $1000.'
       }

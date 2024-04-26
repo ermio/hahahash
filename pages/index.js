@@ -7,7 +7,7 @@ import {
   Link,
   formatDate,
 } from '../components/src'
-import { RotatingArrow } from '@carbonplan/icons'
+import { RotatingArrow } from '../components/icons'
 import { keyframes } from '@emotion/react'
 import Splash from '../components/splash'
 import Highlight from '../components/highlight'
@@ -35,7 +35,7 @@ const Index = () => {
   return (
     <Layout
       links={'homepage'}
-      title={'hahaHash'}
+      title={'hahaHash - Ethereum Resteaking Research '}
       description={
         'We build analytics tools, operate top-tier validator nodes and publish ecosystem insights.'
       }
